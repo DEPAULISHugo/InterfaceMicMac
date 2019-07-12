@@ -8,4 +8,4 @@ MicMac and a Python interpreter need to be present on your system for InterfaceM
 
 ## Running
 
-To run the InterfaceMicMac, open the file InterfaceMicMac with a Python interpreter and run it. You can find an explanation for all of the functionalities in the tutorial.
+To run the InterfaceMicMac, open the file InterfaceMicMac.py with a Python interpreter and run it. You can find an explanation for all of the functionalities in the tutorial.
